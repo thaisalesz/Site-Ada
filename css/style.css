@@ -75,3 +75,15 @@ body{
     border-color: transparent;
     padding: 2px 20px;
   }
+  a:link{
+    color:#99ffff;
+  }
+  a:active{
+    background-color:#FF9E9E;
+  }
+  a:hover{
+    color:#ffe36d;
+  }
+  a:active{
+    color:blue;
+  }
